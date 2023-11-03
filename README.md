@@ -15,13 +15,7 @@
 <br />
 <h1>
   hey there👋
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<br />
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-  
-</div>
 
 - :telescope: I’m working as a web Developer and contributing to frontend for building web applications.
 
@@ -35,10 +29,9 @@
 ### :hammer_and_wrench: Languages and Tools :
 <br />
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFhY2RiaXF5dmtmcnlkODV1b2FlOXJ3eWdhbWRrMDFmb2JtY3R3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"  width="350" height="200"/>
+<!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFhY2RiaXF5dmtmcnlkODV1b2FlOXJ3eWdhbWRrMDFmb2JtY3R3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"  width="350" height="200"/> -->
 </div>
-<br />
-<br />
+<!-- <br /> -->
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;&nbsp;
