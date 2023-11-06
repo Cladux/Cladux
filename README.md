@@ -21,7 +21,7 @@
 
 - :zap: In my free time, I am very interested in studying psychology topics, Piano Playing and Mountaineering.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cladux/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cladux-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cladux/)
   or <a href="mailto:sharifysoroush@gmail.com">sharifysoroush@gmail.com </a>
 
 - ---
