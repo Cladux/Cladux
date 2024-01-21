@@ -9,10 +9,6 @@
   </a>
 </div>
 <br />
-<div id="viewCounter" align="center">
-<img src="https://komarev.com/ghpvc/?username=Claudx&style=flat-square&color=blue" alt="Profile counter"/>
-</div>
-<br />
 <h1>
   hey there👋
 </h1>
